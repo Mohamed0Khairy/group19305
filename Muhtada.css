@@ -1,0 +1,36 @@
+.First {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    position: relative;
+    left: 700px;
+}
+.Head {
+    font-size: 32px;
+    color: bisque;
+    position: relative;
+    left: 650px;
+}
+.neg {
+    position: relative;
+    left: 700px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+.pos {
+position: relative;
+left: 700px;
+font-size: 32px;
+color: rgb(255, 255, 255);
+}
+.Positive {
+    position: relative;
+    left: 300px;
+}
+.Negative {
+    position: relative;
+    left: 300px;
+}
+.info {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
